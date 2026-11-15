@@ -1,0 +1,900 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "© 2026 RHPT" : {
+
+    },
+    "© 2026 RHPT." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 RHPT."
+          }
+        }
+      }
+    },
+    "About MailChime" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About MailChime"
+          }
+        }
+      }
+    },
+    "Activity" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activity"
+          }
+        }
+      }
+    },
+    "Agent missing from app bundle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agent missing from app bundle"
+          }
+        }
+      }
+    },
+    "Allow MailChime notifications in System Settings to receive new mail alerts." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow MailChime notifications in System Settings to receive new mail alerts."
+          }
+        }
+      }
+    },
+    "Another mail check is running. Try again shortly." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Another mail check is running. Try again shortly."
+          }
+        }
+      }
+    },
+    "APNs accepted the test notification. Check Notification Center." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "APNs accepted the test notification. Check Notification Center."
+          }
+        }
+      }
+    },
+    "APNs registration" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "APNs registration"
+          }
+        }
+      }
+    },
+    "APNs registration failed. Check the app's signing and Push Notifications capability." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "APNs registration failed. Check the app's signing and Push Notifications capability."
+          }
+        }
+      }
+    },
+    "Approval required" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Approval required"
+          }
+        }
+      }
+    },
+    "Approve MailChime in Login Items to check for missed mail after sleep." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Approve MailChime in Login Items to check for missed mail after sleep."
+          }
+        }
+      }
+    },
+    "Approve MailChime in Login Items to restart the background agent." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Approve MailChime in Login Items to restart the background agent."
+          }
+        }
+      }
+    },
+    "Background agent" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Background agent"
+          }
+        }
+      }
+    },
+    "Background agent restarted" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Background agent restarted"
+          }
+        }
+      }
+    },
+    "Based on MailBell by Marton Paulo and Samzong" : {
+
+    },
+    "Based on MailBell by Marton Paulo and Samzong." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Based on MailBell by Marton Paulo and Samzong."
+          }
+        }
+      }
+    },
+    "Check for Missed Mail" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check for Missed Mail"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "Could not access the shared Keychain. Check signing and unlock your Mac." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not access the shared Keychain. Check signing and unlock your Mac."
+          }
+        }
+      }
+    },
+    "Could Not Open Mail App" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could Not Open Mail App"
+          }
+        }
+      }
+    },
+    "Could not read or save shared state. Check signing, App Groups, and file permissions." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not read or save shared state. Check signing, App Groups, and file permissions."
+          }
+        }
+      }
+    },
+    "Could not update the background agent. Check Login Items in System Settings." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not update the background agent. Check Login Items in System Settings."
+          }
+        }
+      }
+    },
+    "Device secret" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Device secret"
+          }
+        }
+      }
+    },
+    "Edit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "Enable notifications" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable notifications"
+          }
+        }
+      }
+    },
+    "Enter an HTTPS relay URL and a valid device secret." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter an HTTPS relay URL and a valid device secret."
+          }
+        }
+      }
+    },
+    "Environment" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Environment"
+          }
+        }
+      }
+    },
+    "From: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From: %@"
+          }
+        }
+      }
+    },
+    "Help" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        }
+      }
+    },
+    "Here's The Mail!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Here's The Mail!"
+          }
+        }
+      }
+    },
+    "Last check" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last check"
+          }
+        }
+      }
+    },
+    "Last push sent" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last push sent"
+          }
+        }
+      }
+    },
+    "Leave the device secret empty to keep the saved value." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leave the device secret empty to keep the saved value."
+          }
+        }
+      }
+    },
+    "License" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "License"
+          }
+        }
+      }
+    },
+    "Licensed under the MIT License." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Licensed under the MIT License."
+          }
+        }
+      }
+    },
+    "MailChime Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MailChime Settings"
+          }
+        }
+      }
+    },
+    "Minimize" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimize"
+          }
+        }
+      }
+    },
+    "Missed mail check completed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Missed mail check completed."
+          }
+        }
+      }
+    },
+    "No default mail app is configured. Choose a default email reader in your mail app's settings, then try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No default mail app is configured. Choose a default email reader in your mail app's settings, then try again."
+          }
+        }
+      }
+    },
+    "No subject" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No subject"
+          }
+        }
+      }
+    },
+    "None yet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None yet"
+          }
+        }
+      }
+    },
+    "Not registered" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not registered"
+          }
+        }
+      }
+    },
+    "Notifications" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications"
+          }
+        }
+      }
+    },
+    "Notifications disabled." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications disabled."
+          }
+        }
+      }
+    },
+    "Notifications enabled." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications enabled."
+          }
+        }
+      }
+    },
+    "OK" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Old IMAP password removed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Old IMAP password removed."
+          }
+        }
+      }
+    },
+    "Open Application Support Folder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Application Support Folder"
+          }
+        }
+      }
+    },
+    "Open Login Items…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Login Items…"
+          }
+        }
+      }
+    },
+    "Quit MailChime" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quit MailChime"
+          }
+        }
+      }
+    },
+    "Received: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Received: %@"
+          }
+        }
+      }
+    },
+    "Registered" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registered"
+          }
+        }
+      }
+    },
+    "Registering…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registering…"
+          }
+        }
+      }
+    },
+    "Registration refreshed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registration refreshed."
+          }
+        }
+      }
+    },
+    "Relay" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relay"
+          }
+        }
+      }
+    },
+    "Relay credentials saved in Keychain." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relay credentials saved in Keychain."
+          }
+        }
+      }
+    },
+    "Released under the MIT License" : {
+
+    },
+    "Remove old IMAP password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove old IMAP password"
+          }
+        }
+      }
+    },
+    "Restart Background Agent" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restart Background Agent"
+          }
+        }
+      }
+    },
+    "Retry Registration" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retry Registration"
+          }
+        }
+      }
+    },
+    "Save Relay" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save Relay"
+          }
+        }
+      }
+    },
+    "Save your relay credentials before checking for mail." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save your relay credentials before checking for mail."
+          }
+        }
+      }
+    },
+    "Send Test Notification" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send Test Notification"
+          }
+        }
+      }
+    },
+    "Some mail is no longer in the relay's catch-up history. Check your Inbox." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some mail is no longer in the relay's catch-up history. Check your Inbox."
+          }
+        }
+      }
+    },
+    "Subject: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subject: %@"
+          }
+        }
+      }
+    },
+    "The agent is missing from this app bundle. Rebuild the MailChime app target and run it again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The agent is missing from this app bundle. Rebuild the MailChime app target and run it again."
+          }
+        }
+      }
+    },
+    "The app has an invalid APNs environment. Check its build configuration." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The app has an invalid APNs environment. Check its build configuration."
+          }
+        }
+      }
+    },
+    "The background agent checks for missed mail at login, after wake, and when the network returns." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The background agent checks for missed mail at login, after wake, and when the network returns."
+          }
+        }
+      }
+    },
+    "The bundled license could not be loaded." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The bundled license could not be loaded."
+          }
+        }
+      }
+    },
+    "The default mail app could not be opened. Open it manually, then try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The default mail app could not be opened. Open it manually, then try again."
+          }
+        }
+      }
+    },
+    "The mail check timed out. Try again later." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The mail check timed out. Try again later."
+          }
+        }
+      }
+    },
+    "The relay is unavailable. Check your connection and try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The relay is unavailable. Check your connection and try again."
+          }
+        }
+      }
+    },
+    "The relay rejected the device secret. Check your saved credentials." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The relay rejected the device secret. Check your saved credentials."
+          }
+        }
+      }
+    },
+    "The relay returned invalid or unreadable notification data." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The relay returned invalid or unreadable notification data."
+          }
+        }
+      }
+    },
+    "There was an error checking for new messages." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There was an error checking for new messages."
+          }
+        }
+      }
+    },
+    "This Mac is not registered with the relay. Enable notifications or retry registration." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This Mac is not registered with the relay. Enable notifications or retry registration."
+          }
+        }
+      }
+    },
+    "Turn off notifications before changing the relay URL." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn off notifications before changing the relay URL."
+          }
+        }
+      }
+    },
+    "Unknown" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown"
+          }
+        }
+      }
+    },
+    "Unknown sender" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown sender"
+          }
+        }
+      }
+    },
+    "View logs" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View logs"
+          }
+        }
+      }
+    },
+    "Window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Window"
+          }
+        }
+      }
+    },
+    "Worker registration" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worker registration"
+          }
+        }
+      }
+    },
+    "Worker URL" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Worker URL"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

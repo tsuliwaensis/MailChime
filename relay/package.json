@@ -1,0 +1,33 @@
+{
+  "name": "mailchime-relay",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit && vitest run",
+    "test": "vitest run",
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "probe": "tsx scripts/probe.ts"
+  },
+  "devDependencies": {
+    "@cloudflare/vitest-plugin": "1.5.1",
+    "@cloudflare/workers-types": "latest",
+    "@types/node": "^26.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^6.0.0",
+    "vitest": "5.1.0",
+    "wrangler": "^4.158.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "fsevents@2.3.3": true,
+    "workerd@1.20261104.1": true
+  },
+  "dependencies": {
+    "approve": "^0.0.12",
+    "fsevents": "^2.3.3",
+    "scripts": "^0.1.0",
+    "workerd": "^1.20261103.1"
+  }
+}

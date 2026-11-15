@@ -1,0 +1,20 @@
+{
+  "aps": {
+    "alert": {
+      "title": "Here's The Mail!",
+      "body": "New message"
+    },
+    "sound": "Notification_A.aiff",
+    "mutable-content": 1,
+    "thread-id": "mailchime-inbox"
+  },
+  "v": 1,
+  "seq": 7,
+  "emailId": "vector-email",
+  "receivedAt": "2026-11-03T12:00:00Z",
+  "enc": {
+    "alg": "A256GCM",
+    "nonce": "JxybOW4dM77t3hoP",
+    "ciphertext": "dZy5zHfJr68MJCoekZJnuKpyjNaP5vutdAZuDNW97vu8HmisDP1d32lLceL60xRB313oqX3pvRYsMatnVV2DoA3osKCAYQKaXxMo/Kjbr9YkgESHOpNzKgQT02v/mya0A7RuXWDG"
+  }
+}

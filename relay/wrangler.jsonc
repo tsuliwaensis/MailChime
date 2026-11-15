@@ -1,0 +1,19 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "rhpt",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": true,
+  "version_metadata": { "binding": "WORKER_VERSION" },
+  "preview_urls": false,
+  "observability": { "enabled": false },
+  "vars": {
+    "APNS_TEAM_ID": "F8AV3SGQFB",
+    "APNS_TOPIC": "com.rhpt.mailchime",
+    "JMAP_DEVICE_CLIENT_ID": "mailbox-relay",
+    "RELAY_URL": "https://rhpt.mym5n442j7.workers.dev"
+  },
+  "durable_objects": { "bindings": [{ "name": "MAILBOX_RELAY", "class_name": "MailboxRelay" }] },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["MailboxRelay"] }],
+  "triggers": { "crons": ["*/5 * * * *"] }
+}
