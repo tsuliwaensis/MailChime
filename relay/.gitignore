@@ -1,0 +1,5 @@
+node_modules/
+.wrangler/
+.secrets.env
+*.p8
+!/README.md

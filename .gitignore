@@ -1,0 +1,7 @@
+Tests/DerivedData*/
+artifacts/
+xcuserdata/
+.ez_cli.json
+*.code-workspace
+.DS_Store
+*.xcuserstate
